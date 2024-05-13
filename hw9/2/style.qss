@@ -1,0 +1,17 @@
+QLabel{
+    background-color: #E1F7F5;
+    border-radius: 50px;
+}
+
+.ImageViewer{
+    background-color: #1E0342;
+}
+
+QPushButton{
+    background-color: #9AC8CD;
+    border: none;
+    margin: 10px;
+    border-radius:5px;
+
+}
+

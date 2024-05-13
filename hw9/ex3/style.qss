@@ -1,0 +1,24 @@
+QLabel{
+    background-color: #FF5733; /* Оранжевый */
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.Window{
+    background-color: #A3C1AD; /* Светло-серый */
+}
+
+QPushButton{
+    background-color: #2E86AB; /* Синий */
+    border: none;
+    border-radius: 3px;
+    margin: 10px;
+    color: white;
+}
+
+QLineEdit{
+    background-color: #9D0208; /* Красный */
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
